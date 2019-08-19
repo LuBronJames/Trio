@@ -1,5 +1,5 @@
 var trabajos = [{
-    figure: "Media/P1.png",
+    figure: "media/P1.png",
     alt: "Descripción de la imagen",
     title: "Wako",
     about: "Proyecto de emergencia textil para Taller: Producto, 2018"
